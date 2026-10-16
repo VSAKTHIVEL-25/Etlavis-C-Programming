@@ -1,4 +1,4 @@
-
+//Write a loop program to print odd number between 1 and 9.
 #include <stdio.h>
 int main()
 {

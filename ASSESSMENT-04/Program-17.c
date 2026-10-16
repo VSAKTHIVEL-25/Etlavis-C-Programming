@@ -1,4 +1,5 @@
-
+/*Write a program get number from user print
+whether that number is prime or not.*/
 #include <stdio.h>
 int main()
 {
