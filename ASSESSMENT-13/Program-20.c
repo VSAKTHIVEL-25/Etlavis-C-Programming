@@ -85,7 +85,7 @@ bool isPalindrome(int64_t x)
 struct Item
 {
     char name[50];
-};
+}
 
 struct Item cart[MAX];
 int top = -1;
